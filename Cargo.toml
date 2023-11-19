@@ -1,0 +1,10 @@
+[package]
+name = "clamav-client"
+version = "0.1.0"
+authors = ["Thorsten Blum", "Paul Makles <insrt.uk>", "Luna Nova <her@mint.lgbt>"]
+edition = "2021"
+repository = "https://github.com/ectoplasmhq/clamav-client"
+description = "ClamAV client library"
+readme = "README.md"
+license = "AGPL-3.0"
+keywords = ["clamav", "clamd", "antivirus"]
